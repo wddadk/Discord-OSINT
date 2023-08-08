@@ -12,7 +12,6 @@ OSINT Discord resources that may be useful for searching or pivotting on Discord
   * [Using the Desktop App](#-using-the-desktop-app)
 * [Discord Bots for OSINT](#-discord-bots-for-osint)
 * [Discord scam links](#-discord-scam-links)
-* [Check the global Discord uptime status](#-check-the-global-discord-uptime-status)
 * [Notes](#-notes)
 * [Discord Wiki](#-discord-wiki)
 
@@ -88,14 +87,13 @@ Log into a Discord Channel. Right click your username in chat or channel list. S
 ## [↑](#-table-of-contents) Discord scam links
 * [Discord-AntiScam](https://github.com/Discord-AntiScam/scam-links)
 * [Scam-links](https://github.com/DevSpen/scam-links/)
-## [↑](#-table-of-contents) Check the global Discord uptime status
 
-[Discord status](https://discordstatus.com/) - Check Global discord uptime status for the API, media proxy, push notifications, search, voirce & third party
 ## [↑](#-table-of-contents) Notes
 * [Since 2023 discord is changing it's nickname policy and replacing (nickname#numer) with (nickname)](https://support.discord.com/hc/en-us/articles/12620128861463-New-Usernames-Display-Names)
 * Because of the "gaming" nature of Discord's audience, there are a lot of:
   - bots with all sorts of additional commands
   - sites integrated with the server, showing all sorts of member's achievements, leaderboards, etc...
+* [Discord status](https://discordstatus.com/) - Check Global discord uptime status for the API, media proxy, push notifications, search, voirce & third party
 ## [↑](#-table-of-contents) Discord Wiki
 [Discord Wiki](https://discordia.me/en/home) - Great in depth wiki about all Discord has to offer. 
 
